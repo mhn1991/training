@@ -1,0 +1,6 @@
+* dutch flag problem: 
+  in this problem we have three numbers {1:Red,2:White,3:Blue} we have 3 of each numbers we have to sort the array.
+
+** TODO prerequisite to simulate the problem:
+   To be able to test our solution we need to make a random array generator for this problem.
+  
