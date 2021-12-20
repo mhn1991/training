@@ -1,0 +1,9 @@
+
+#define Red 1
+#define White 2
+#define Blue 3
+
+int main(){
+
+
+}
