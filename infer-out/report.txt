@@ -1,0 +1,13 @@
+#0
+dutch_flag_problem.c:46: error: Dead Store
+  The value written to &mid_index (type int) is never used.
+  44. void solver(int *flag){
+  45.   int low_index = 0;
+  46.   int mid_index = sizeof(flag)/sizeof(int *);
+        ^
+  47. }
+  48. 
+
+Found 1 issue
+  Issue Type(ISSUED_TYPE_ID): #
+      Dead Store(DEAD_STORE): 1
