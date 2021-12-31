@@ -1,1 +1,1 @@
-[{"bug_type":"DEAD_STORE","qualifier":"The value written to &mid_index (type int) is never used.","severity":"ERROR","line":46,"column":3,"procedure":"solver","procedure_start_line":44,"file":"dutch_flag_problem.c","bug_trace":[{"level":0,"filename":"dutch_flag_problem.c","line_number":46,"column_number":3,"description":"Write of unused value"}],"key":"dutch_flag_problem.c|solver|DEAD_STORE","hash":"1ba5bc881217b57ab6069a7efec6911f","bug_type_hum":"Dead Store"}]
+[]
