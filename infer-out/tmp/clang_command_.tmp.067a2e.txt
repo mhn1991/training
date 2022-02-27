@@ -1,6 +1,6 @@
 '-###'
 '-c'
-'dutch_flag_problem.c'
+'fussy_diplomat.c'
 '-fno-cxx-modules'
 '-Qunused-arguments'
 '-Wno-ignored-optimization-argument'
